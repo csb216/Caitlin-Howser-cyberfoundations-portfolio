@@ -4,7 +4,7 @@
 
 ## About Me
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
+Hello, I'm Caitlin and excited to start my cybersecurity journey at Cybervisionaries Institute. I'm learning cybersecurity to further my understanding of systems and data, and how this can be used to protect people's confidential information. My goal in this course is to have a hands-on learning experience and be exposed to different paths in cybersecurity.
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
