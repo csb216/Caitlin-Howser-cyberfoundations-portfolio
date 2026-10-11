@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Af1_UYBF5CbMJo5HdTGJ">
+    <mxGraphModel dx="936" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vHhieGsgX5F1paXwGMr3-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hardware- RAM - Random Access Memory&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" value="" vertex="1">
+          <mxGeometry height="100" width="70" x="365" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Short term usage of memory for running current tasks" vertex="1">
+          <mxGeometry height="100" width="280" x="530" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="690" as="sourcePoint" />
+            <mxPoint x="530" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Operating System- WINDOWS" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="419.5" as="sourcePoint" />
+            <mxPoint x="540" y="419.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="A graphical user interface that interacts with hardware and software. An intermediary between both that makes navigation easier.&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="280" x="540" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Software- Google Chrome&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-14" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" value="" vertex="1">
+          <mxGeometry height="100" width="70" x="365" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="200" as="sourcePoint" />
+            <mxPoint x="550" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHhieGsgX5F1paXwGMr3-16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Used to access apps, documents, etc" vertex="1">
+          <mxGeometry height="100" width="280" x="550" y="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
